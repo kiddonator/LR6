@@ -36,6 +36,7 @@
 
 
 ![создание и переход на ветку репорт](https://github.com/kiddonator/LR6/blob/report/Screenshot_1.png)
+
 ![сохранение скриншотов на ветку репорта](https://github.com/kiddonator/LR6/blob/report/2.png)
 
   
