@@ -4,13 +4,13 @@
 
 использованные команды:
 
-'''diff
-  > cd C:\Users\tkach\Desktop\github 
-  > git config --global user.name "Ткачев М.А. 4918"
-  >  git config --global usre.email tkachovmax@yandex.ru
+
+ ' > cd C:\Users\tkach\Desktop\github '
+ ' > git config --global user.name "Ткачев М.А. 4918"'
+  '>  git config --global usre.email tkachovmax@yandex.ru'
   > git clone https://github.com/kiddonator/LR6
   >  cd LR6;
-  '''
+ 
 </li>
 /*Добавление файла monke.txt через интерфейс GitHub*/
 
