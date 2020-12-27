@@ -89,6 +89,8 @@
 
 ```
 
+![log_list](https://github.com/kiddonator/LR6/blob/report/logs.png)
+
 
 
 
